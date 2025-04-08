@@ -46,7 +46,7 @@
   <div class="card">
     <div class="heart">💗</div>
     <h2>Gửi Hà Thanh Thủy ✨</h2>
-    <img src="https://i.imgur.com/wuI8QkS.png" alt="Ảnh Thủy cute"/>
+    [<img src="https://i.imgur.com/wuI8QkS.png" alt="Ảnh Thủy cute"/>](https://imgur.com/a/34v2hsx)
     <p>
       Em tên Thủy, mà mệnh lại Hỏa,<br>
       bảo sao gặp em, tim tôi lại tan chảy.🔥<br><br>
